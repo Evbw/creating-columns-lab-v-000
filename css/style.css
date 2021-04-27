@@ -53,6 +53,17 @@ img:hover {
   vertical-align: top;
 }
 /* create your tile classes! we recommend .small .med .large */
-.tile {
+.small {
+  width: 30%;
+  height: 30%;
+}
 
+.med {
+  width: 70%;
+  height: 70%;
+}
+
+.large {
+  width: 100%;
+  height: 100%;
 }
